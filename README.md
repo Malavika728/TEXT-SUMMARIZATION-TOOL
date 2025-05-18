@@ -60,3 +60,8 @@ This project centers on building a user-friendly UI for summarizing large articl
 git clone https://github.com/your-username/text-summarization-tool-app.git
 cd text-summarization-tool-app
 
+##OUTPUT
+
+![App Output](https://github.com/Malavika728/TEXT-SUMMARIZATION-TOOL/raw/main/Screenshot 2025-05-18 192655.png)
+
+
