@@ -59,6 +59,12 @@ This project centers on building a user-friendly UI for summarizing large articl
 ```bash
 git clone https://github.com/your-username/text-summarization-tool-app.git
 cd text-summarization-tool-app
+bash```
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5a11e89d-dadd-4bf5-9aa7-00562733b67f)
+
 
 
 
